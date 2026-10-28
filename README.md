@@ -19,3 +19,4 @@ geographic sale analysis -map
 sales distribution by sub category -tree map 
 ordr count analysis by state using funnel chart
 format each chart to enhance visual appeal
+
